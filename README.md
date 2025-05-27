@@ -1,6 +1,6 @@
 # Gon Cloud Platform (GCP)
 
-A lightweight cloud computing platform that provides AWS EC2-like functionality for managing virtual instances and networking infrastructure.
+A lightweight cloud computing platform for managing virtual instances and networking infrastructure.
 
 ## Overview
 
